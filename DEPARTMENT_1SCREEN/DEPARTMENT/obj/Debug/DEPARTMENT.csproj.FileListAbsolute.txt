@@ -1,0 +1,31 @@
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\bin\Debug\DEPARTMENT.exe.config
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\bin\Debug\DEPARTMENT.exe
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\bin\Debug\DEPARTMENT.pdb
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.csprojResolveAssemblyReference.cache
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.Form1.resources
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.Properties.Resources.resources
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.csproj.GenerateResource.Cache
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.exe
+c:\users\arnest jerome\documents\visual studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.pdb
+C:\Users\Arnest Jerome\Documents\Visual Studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.Form_dashboard_LCD.resources
+C:\Users\Arnest Jerome\Documents\Visual Studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.Form_Dashboard_SA.resources
+C:\Users\Arnest Jerome\Documents\Visual Studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.FORM_SA.resources
+C:\Users\Arnest Jerome\Documents\Visual Studio 2015\Projects\DEPARTMENT\DEPARTMENT\obj\Debug\DEPARTMENT.Form_announcements.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\bin\Debug\DEPARTMENT.exe.config
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.exe
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.pdb
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\bin\Debug\DEPARTMENT.exe
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\bin\Debug\DEPARTMENT.pdb
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.csprojResolveAssemblyReference.cache
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form1.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_announcements.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_dashboard_LCD.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_Dashboard_SA.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.FORM_SA.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Properties.Resources.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.csproj.GenerateResource.Cache
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form2.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_Student_Info.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_Thesis.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_borrowing.resources
+C:\Users\Arnest Jerome\Desktop\DEPARTMENT_1SCREEN\DEPARTMENT\obj\Debug\DEPARTMENT.Form_thesisupdate.resources
